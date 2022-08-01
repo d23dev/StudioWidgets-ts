@@ -1,5 +1,5 @@
 {
-	"name": "@rbxts/studiowidgets-ts",
+	"name": "@rbxts/studio-widgets",
 	"version": "1.0.0",
 	"description": "",
 	"main": "src/init.lua",
