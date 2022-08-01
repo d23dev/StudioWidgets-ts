@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/studio-widgets",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "src/init.lua",
 	"scripts": {
@@ -13,8 +13,7 @@
 	"license": "ISC",
 	"types": "src/index.d.ts",
 	"files": [
-		"out",
-		"!**/*.tsbuildinfo"
+		"src"
 	],
 	"publishConfig": {
 		"access": "public"
