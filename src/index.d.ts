@@ -141,3 +141,17 @@ interface VerticalScrollingFrame {
 declare const VerticalScrollingFrame: {
 	new (suffix: string | number): VerticalScrollingFrame;
 };
+
+export {
+	CollapsibleTitledSection,
+	CustomTextButton,
+	ImageButtonWithText,
+	LabeledCheckbox,
+	LabeledMultiChoice,
+	LabeledRadioButton,
+	LabeledSlider,
+	LabeledTextInput,
+	StatefulImageButton,
+	VerticallyScalingListFrame,
+	VerticalScrollingFrame,
+};
